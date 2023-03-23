@@ -1,5 +1,5 @@
 # HibernateReproducerORM5WorkingFine
-This is a test case using hibernate test template to demonstrate the issue regarding binding
+This is a test case using hibernate test template to demonstrate the issue regarding binding worked fine in the older version
 
 Import the maven project and run the test case under ORMStandaloneTestCase.java
 
