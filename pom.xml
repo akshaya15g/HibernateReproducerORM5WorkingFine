@@ -38,5 +38,4 @@
             <version>${version.junit}</version>
         </dependency>
     </dependencies>
-
 </project>
